@@ -1,0 +1,29 @@
+h1 {
+  color: white;
+ font-family: Roboto;
+  font-size: xx-large;
+}
+h2 {
+  color: white;
+  font-style: Garamond;
+
+}
+.appetizer,
+.dessert,
+.main {
+  background-color: #DAA03DFF;
+  align-content: center;
+  text-align: center;
+  margin-top: 100px;
+  margin-bottom: 100px;
+  margin-right: 150px;
+  margin-left: 80px;
+}
+header , footer{
+  background-color: #DAA03DFF;
+  align-content: center;
+  text-align: center;
+}
+body{
+    background-color: #616247FF;
+}
